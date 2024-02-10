@@ -9,5 +9,4 @@ int main()
 	cin >> n;
 	if(n==16 || n==17 ||n==18) cout << "ADVITIYA" <<endl;
 	else cout << "WAITING FOR ADVITIYA" << endl;
-
 }
