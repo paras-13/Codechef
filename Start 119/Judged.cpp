@@ -16,5 +16,4 @@ int main()
 	    if(vote>=4) cout << "YES" << endl;
 	    else cout << "NO" << endl;
 	}
-
 }
